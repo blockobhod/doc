@@ -1,0 +1,29 @@
+<svg width="490" height="290" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="se_marker_end_svg_14" markerUnits="strokeWidth" orient="auto" viewBox="0 0 100 100" markerWidth="5" markerHeight="5" refX="50" refY="50">
+   <path d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" stroke="#000000" id="svg_4"/>
+  </marker>
+ </defs>
+ <g>
+  <title>Routers</title>
+  <rect ry="4" rx="4" id="svg_1" height="35" width="35" y="207" x="23" stroke="#000000" fill="#00bf5f"/>
+  <circle stroke="#000000" id="svg_2" r="20" cy="164" cx="146" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ff7f00"/>
+  <path marker-end="url(#se_marker_end_svg_14)" fill-opacity="0" id="svg_7" d="m48.1132,207c10.62895,-17 31,-40 69.99999,-40" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#000000" fill="#000000"/>
+  <circle id="svg_8" stroke="#000000" r="20" cy="228.61321" cx="218.24528" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffffaa"/>
+  <circle id="svg_9" stroke="#000000" r="20" cy="143.70755" cx="310.69811" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffffaa"/>
+  <rect id="svg_10" ry="4" rx="4" height="35" width="35" y="190.14151" x="418.84905" stroke="#000000" fill="#aaaaff"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="12" id="svg_18" y="261.35849" x="74.15094" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">Компьютер-отправитель</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="12" id="svg_18" y="244" x="410" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">Компьютер-получатель</text>
+  <path d="m145.47179,185.11325c-0.31458,6.39621 10.69824,48.92447 53.47169,47.41504" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#7f7f7f" fill="none" id="svg_11"/>
+  <path fill-opacity="0" d="m216.79254,207.7547c-1.0692,-18.13208 34.84904,-64.90562 73.84897,-64.90562" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#7f7f7f" fill="#000000" id="svg_12"/>
+  <path fill-opacity="0" d="m312.642,163.226c27.21301,55.90601 86.396,47.265 107.302,45.151" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#7f7f7f" fill="#000000" id="svg_13"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="12" y="144.37736" x="86.98113" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000" id="svg_14">Маршрутизатор 1</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="12" y="264.75471" x="243.20754" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000" id="svg_15">Маршрутизатор 2</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="12" y="140.98113" x="382.45283" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000" id="svg_16">Маршрутизатор 3</text>
+  <path marker-end="url(#se_marker_end_svg_14)" fill-opacity="0" d="m167.1132,166c54.62895,-1 50.99998,-86 17.99997,-86" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#000000" fill="#000000" id="svg_3"/>
+  <rect ry="4" rx="4" height="35" width="35" y="57.14151" x="142.84905" stroke="#000000" fill="#ff7f00" id="svg_5"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="12" y="158.37736" x="72.98113" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000" id="svg_6">Место блокировки</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="12" y="71.37736" x="73.98113" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000" id="svg_17">Страница, показываемая</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="12" y="84.37736" x="73.98113" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000" id="svg_19">вместо заблокированной</text>
+ </g>
+</svg>
