@@ -1,0 +1,24 @@
+<svg width="490.00000000000006" height="280" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="se_marker_end_svg_14" markerUnits="strokeWidth" orient="auto" viewBox="0 0 100 100" markerWidth="5" markerHeight="5" refX="50" refY="50">
+   <path d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" stroke="#000000" id="svg_4"/>
+  </marker>
+ </defs>
+ <g>
+  <title>Routers</title>
+  <rect ry="4" rx="4" id="svg_1" height="35" width="35" y="98" x="23" stroke="#000000" fill="#00bf5f"/>
+  <circle stroke="#000000" id="svg_2" r="20" cy="55" cx="146" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffffaa"/>
+  <path marker-end="url(#se_marker_end_svg_14)" fill-opacity="0" id="svg_7" d="m48.113201,98c10.628948,-17 30.999996,-40 69.999996,-40" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#000000" fill="#000000"/>
+  <circle id="svg_8" stroke="#000000" r="20" cy="119.61321" cx="218.24528" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffffaa"/>
+  <circle id="svg_9" stroke="#000000" r="20" cy="34.70755" cx="310.69811" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffffaa"/>
+  <rect id="svg_10" ry="4" rx="4" height="35" width="35" y="81.14151" x="418.84905" stroke="#000000" fill="#aaaaff"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="12" id="svg_18" y="152.35849" x="74.15094" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">Компьютер-отправитель</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="12" id="svg_18" y="135" x="425" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">Настоящий сайт</text>
+  <path marker-end="url(#se_marker_end_svg_14)" fill-opacity="0" d="m145.471786,76.113243c-0.314575,6.396217 2.698242,47.924477 45.471695,46.415047" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#000000" fill="#000000" id="svg_11"/>
+  <path fill-opacity="0" d="m216.792542,98.7547c-1.069199,-18.132072 26.849045,-64.905624 74,-64.905624" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#999999" fill="#000000" id="svg_12"/>
+  <path fill-opacity="0" d="m312.641571,54.22646c24.213684,27.905682 54.396515,42.264103 105,45" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#999999" fill="#000000" id="svg_13"/>
+  <path id="svg_3" marker-end="url(#se_marker_end_svg_14)" fill-opacity="0" d="m238.184311,120.647629c29.240433,5.586487 50.876266,85.981277 -72.746964,86.496063" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#000000" fill="#000000"/>
+  <rect id="svg_5" ry="4" rx="4" height="35" width="35" y="187.878546" x="122.595144" stroke="#000000" fill="#ffaa56"/>
+  <text id="svg_6" xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="12" y="240.212743" x="140.952562" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">Сайт-заглушка</text>
+ </g>
+</svg>

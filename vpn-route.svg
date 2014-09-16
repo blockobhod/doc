@@ -1,0 +1,35 @@
+<svg width="490.00000000000006" height="280" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <marker id="se_marker_end_svg_14" markerUnits="strokeWidth" orient="auto" viewBox="0 0 100 100" markerWidth="5" markerHeight="5" refX="50" refY="50">
+   <path d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#000000" stroke="#000000" id="svg_4"/>
+  </marker>
+  <marker id="encrypted-hop" markerUnits="strokeWidth" orient="auto" viewBox="0 0 100 100" markerWidth="5" markerHeight="5" refX="50" refY="50">
+   <path d="m100,50l-100,40l30,-40l-30,-40l100,40z" fill="#ff0000" stroke="#ff0000" id="svg_567"/>
+  </marker>
+ </defs>
+ <g>
+  <title>VPN</title>
+  <rect ry="4" rx="4" id="svg_1" height="35" width="35" y="98" x="23" stroke="#000000" fill="#00bf5f"/>
+  <circle stroke="#000000" id="svg_2" r="20" cy="55" cx="146" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffffaa"/>
+  <path marker-end="url(#encrypted-hop)" id="hop1" d="m48.113201,98c10.628948,-17 31,-40 70,-40" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#ff0000" fill="none"/>
+  <path marker-end="url(#encrypted-hop)" fill-opacity="0" d="m145,76c-0.314575,6.396217 2.698242,47.924477 45.471695,46.415047" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#ff0000" fill="#000000" id="hop2"/>
+  <circle id="svg_8" stroke="#000000" r="20" cy="119.61321" cx="218.24528" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffffaa"/>
+  <circle id="svg_9" stroke="#000000" r="20" cy="34.70755" cx="310.69811" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffffaa"/>
+  <rect id="svg_10" ry="4" rx="4" height="35" width="35" y="81.14151" x="418.84905" stroke="#000000" fill="#aaaaff"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="12" id="svg_18" y="152.35849" x="74.15094" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">Компьютер-отправитель</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="12" id="svg_18" y="135" x="410" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">Компьютер-получатель</text>
+  <path marker-end="url(#se_marker_end_svg_14)" fill-opacity="0" d="m312.641571,54.22646c24.213684,27.905682 54.396515,42.264103 98.302002,44.15089" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#000000" fill="#000000" id="svg_13"/>
+  <path id="hop3" marker-end="url(#encrypted-hop)" fill-opacity="0" d="m238,120c29,5 41,33 42,65" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#ff0000" fill="#000000"/>
+  <rect id="svg_5" ry="4" rx="4" height="35" width="35" y="192.87855" x="263.59514" stroke="#000000" fill="#007f7f"/>
+  <text id="svg_6" xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="12" y="249.21274" x="279.95256" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">Шлюз VPN</text>
+  <circle id="svg_12" stroke="#000000" r="20" cy="100.70755" cx="291.69811" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#ffffaa"/>
+  <path id="svg_14" marker-end="url(#se_marker_end_svg_14)" fill-opacity="0" d="m289.184326,192.647629c10.240417,-27.413513 13.876251,-43.018723 9.253021,-64.503937" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#000000" fill="#000000"/>
+  <path id="svg_15" marker-end="url(#se_marker_end_svg_14)" fill-opacity="0" d="m277.641571,85.226463c-16.786316,-8.094322 -19.603485,-51.735905 6.302002,-52.849113" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#000000" fill="#000000"/>
+  <text style="cursor: move;" id="svg_16" xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="12" y="26.35849" x="146.15094" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">Точка блокировки</text>
+  <line id="svg_17" y2="225" x2="63" y1="225" x1="19" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#ff0000" fill="none"/>
+  <line id="svg_19" y2="245" x2="63" y1="245" x1="19" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="3" stroke="#000000" fill="none"/>
+  <text style="cursor: move;" id="svg_20" xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="12" y="228" x="137" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">Зашифрованный трафик</text>
+  <text id="svg_21" xml:space="preserve" text-anchor="middle" font-family="Serif" font-size="12" y="248.35849" x="122" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">Открытый трафик</text>
+ </g>
+</svg>
